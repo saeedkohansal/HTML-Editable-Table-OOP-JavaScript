@@ -1,0 +1,55 @@
+body {
+    font-family: "Ubuntu";
+    margin: 0;
+    padding: 0;
+    background-image: url("gilgeekify-army.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    font-size: 20px;
+    font-weight: 900;
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: nowrap;
+}
+
+a {
+    text-decoration: none;
+}
+
+#title-top {
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #5582ffb5;
+    border-radius: 0 100px 0 100px;
+    width: 800px;
+}
+
+#title-bot {
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #ff0000b5;
+    border-radius: 0 100px 0 100px;
+    width: 700px;
+}
+
+h1 {
+    color: #222;
+    background-color: #00ffbbb5;
+    padding: 20px;
+    border-radius: 100px 0 100px 0;
+    width: 600px;
+    text-align: center;
+    margin: 0 0 15px 0;
+    border: 6px solid #222;
+    transition: 1s;
+}
+
+h1:hover {
+    filter: hue-rotate(300deg);
+}

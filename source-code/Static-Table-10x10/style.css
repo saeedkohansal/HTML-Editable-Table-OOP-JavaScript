@@ -1,0 +1,36 @@
+body {
+    font-family: "Ubuntu";
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    background-color: #ffffff80;
+}
+
+td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: center;
+    transition: 200ms;
+}
+
+td.active {
+    background-color: #0f0;
+}
+
+td.editable {
+    background-color: #ff0;
+}
+
+td.editable:focus {
+    transform: scale(1.1);
+}
