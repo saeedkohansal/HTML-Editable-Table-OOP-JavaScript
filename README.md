@@ -6,7 +6,7 @@ _HTML Editable Table Tutorial: Edit Tables with Mouse and Keyboard Arrow Keys #H
 
 In Today's Tutorial Video, I'll Create Editable HTML Tables from Scratch Using Vanilla JavaScript and a Touch of CSS. This combination will dynamically generate tables with editable capabilities, enabling users to interact seamlessly through both mouse input and keyboard arrow keys. Join me as we delve into a tutorial that promises to elevate your web development practices. Stay tuned for an exploration that will redefine your approach to managing tables within your projects. I'll use Object-Oriented JavaScript programming.
 
-## Video Tutorial [ How To Build Chrome Extension From Scratch ]
+## Video Tutorial [ How To Create HTML Editable Table From Scratch ]
 [https://youtu.be/VffwdH5j6eI](https://youtu.be/VffwdH5j6eI)
 
  
